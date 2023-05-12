@@ -1,0 +1,10 @@
+This file should be implemented in sql.
+
+
+# Oracle 11g
+
+ADD THE FOLLOWING
+
+* create stmt 
+
+* insert stmt
