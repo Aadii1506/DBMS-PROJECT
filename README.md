@@ -3,4 +3,4 @@ It's a GUI based project which can be used to manage customers data, order detai
 It uses java swing for GUI and jdbc for database connectivity
 Using f1.java you may proceed running the application.
 # Must run query in your system database
-[Link]{https://github.com/Aadii1506/DBMS-PROJECT/tree/main/Query}
+[Link](https://github.com/Aadii1506/DBMS-PROJECT/tree/main/Query)
